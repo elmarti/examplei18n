@@ -3,6 +3,7 @@
     "values:" {
         "dave":"dave",
         "branch":"branch",
+        "asd":"asd",
         "auth": {
             "key": "value",
             "login": {
