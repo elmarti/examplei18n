@@ -1,5 +1,5 @@
 {
-    language: "en-gb",
+    "language": "en-gb",
     "values:" {
         "auth": {
             "key": "value",
