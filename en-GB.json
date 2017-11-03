@@ -2,6 +2,7 @@
     "language": "en-gb",
     "values:" {
         "dave":"dave",
+        "branch":"branch",
         "auth": {
             "key": "value",
             "login": {
