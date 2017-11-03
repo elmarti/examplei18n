@@ -3,7 +3,7 @@
     "values:" {
         "dave":"dave",
         "branch":"branch",
-        "extra_stuff":"extra stuf f",
+        "extra_stuff":"ext  ra stuf f",
         "asd":"asd",
         "auth": {
             "key": "value",
