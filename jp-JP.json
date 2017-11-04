@@ -6,7 +6,8 @@
 		"flee": {
 			"name": "実行",
 			"success": "無事に離れて得た！",
-			"failure": "逃げることはできません！"
+			"failure": "逃げることはできません！",
+			"uberDave":"asdjaskdj"
 		}
 	}
 }
