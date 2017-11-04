@@ -1,11 +1,12 @@
 {
 	"lang": {"code": "fr", "name": "Français"},
 	"actions": {
-		"catch": "Gotcdasdha! Le %NAME% sauvage a été attrapé!"
+		"catch": "Gotcdasdha! asdLe %NAME% sauvage a été attrapé!"
 		"flee": {
 			"name": "Run",
 			"success": "Sommes éloignés sans risque!",
-			"failure": "Ne peut pas échapper!"
+			"failure": "Ne peut pas échapper!",
+			"dave":"dave"
 		}
 	}
 }
