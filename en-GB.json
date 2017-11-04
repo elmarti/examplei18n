@@ -1,7 +1,10 @@
 {
-	"lang": {"code": "en", "name": "English"},
+	"lang": {
+		"code": "en",
+		"name": "English"
+	},
 	"actions": {
-		"catch": "Gotcha! The wild %NAME% was caught!"
+		"catch": "Gotcha! The wild %NAME% was caught!",
 		"flee": {
 			"name": "Run",
 			"success": "Got away safely!",

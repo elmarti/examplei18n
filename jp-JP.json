@@ -2,7 +2,7 @@
 {
 	"lang": {"code": "jp", "name": "日本の"},
 	"actions": {
-		"catch": "ガッチャ！野生%NAME%が逮捕された！"
+		"catch": "ガッチャ！野生%NAME%が逮捕された！",
 		"flee": {
 			"name": "実行",
 			"success": "無事に離れて得た！",
