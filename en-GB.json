@@ -5,7 +5,7 @@
 		"flee": {
 			"name": "Run",
 			"success": "Got away safely!",
-			"failure": "Can'asd easdsasdasdcape!",
+			"failure": "Can' easdsasdasdcape!",
 			"steve": "steve"
 		}
 	}
