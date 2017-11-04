@@ -1,10 +1,10 @@
 {
     "language": "en-gb",
-    "values:" {
-        "dave":"dave",
-        "branch":"branch",
-        "extra_stuff":"extra   d  dd jdskdjskdsakjdkas dasdsasfdkfjskdffsdadasdasjsdfjsdkjdkfasddfsksdfasda     stuf f",
-        "asd":"asd",
+    "values": {
+        "dave": "dave",
+        "branch": "branch",
+        "extra_stuff": "extra   d  dd jdskdjskdsakjdkas dasdsasfdkfjskdffsdadasdasjsdfjsdkjdkfasddfsksdfasda     stuf f",
+        "asd": "asd",
         "auth": {
             "key": "value",
             "login": {
