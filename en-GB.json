@@ -1,6 +1,6 @@
 {
     "language": "en-gb",
-    "values:" {
+    "values": {
         "dave":"dave",
         "auth": {
             "key": "value",
